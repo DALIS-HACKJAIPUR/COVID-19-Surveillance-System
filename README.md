@@ -35,6 +35,9 @@ Now, comes the <b>question on the availability of CCTV cameras</b>. Highly popul
 * The model uses CNN as a deep learning neural network to obtain good accuracy in predicting if a person wearing a Mask. In this step the image is convoluted, pooled and fed into layers of neural network using 'Selu' activation function. Then Flattened, and then sent to fully connected layer and Output layer.
 * The model then predicts probability of a person wearing a mask for each frame of video and if the person is found without a mask, his vehicle will be searched for QR code and then a Warning / Fine will be sent to him digitally.
 
+## FLOW Diagram
+![](Saurav_Hack_3.JPG)
+
 ## Contributing
 Pull requests are welcome. For major changes, a pull request is expected.
 
