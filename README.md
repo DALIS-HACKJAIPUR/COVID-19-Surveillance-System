@@ -24,7 +24,7 @@ Now, comes the <b>question on the availability of CCTV cameras</b>. Highly popul
 * **Pickle**
 * **Twilio**
 * **Python**
-<b>All the above dependencies need to be installed in order to test the project.</b>
+* <b>All the above dependencies need to be installed in order to test the project.</b>
 
 ### Demo
 * **Video Link can be found on :-**
