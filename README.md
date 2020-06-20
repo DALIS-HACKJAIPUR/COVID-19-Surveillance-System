@@ -26,14 +26,16 @@ Now, comes the <b>question on the availability of CCTV cameras</b>. Highly popul
 * **Python**
 
 ### Demo
-
+* **Video Link can be found on :-**
 
 ## WorkFlow
-
+* We have designed a Deep Learning Neural Network which will feed on real time video captured through cctv cameras installed at traffic signals placed in different part of the city. The algorithm was trained on custom made dataset and images from online
+* The first step after obtaining images was to pre-process the image into a one-D array containing RGB values. The values obtained were pre processed and then sent for further computation.
+* The model uses CNN as a deep learning neural network to obtain good accuracy in predicting if a person wearing a Mask. In this step the image is convoluted, pooled and fed into layers of neural network using 'Selu' activation function. Then Flattened, and then sent to fully connected layer and Output layer.
+* The model then predicts probability of a person wearing a mask for each frame of video and if the person is found without a mask, his vehicle will be searched for QR code and then a Warning / Fine will be sent to him digitally.
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-Please make sure to update tests as appropriate.
+Pull requests are welcome. For major changes, a pull request is expected.
 
 ## The Team
 * [Sourav Jain](https://github.com/SouravJain01)
