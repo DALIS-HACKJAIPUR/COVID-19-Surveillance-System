@@ -30,6 +30,8 @@ All the packages mentioned above need to be installed.
 The twilio <b> auth_sid </b> and <b> auth_token </b> need to be pasted for personal accounts.
 * **The complete working project is in Final_Complete_Code.ipynb and final Neural Network is in HACK_JAIPUR_MODEL_TRAINING.ipynb.**
 Rest all files are basic building blocks of project.
+* Neural Network is pickled in <b>loaded_model_updated_dataset_3.pkl</b> which is used for predictions.
+* Face detection dependencies will need <b>deploy.prototxt</b> and <b>res10_300x300_ssd_iter_140000.caffemodel</b> files.
 
 ### Demo
 * **Video Link can be found on :-**
