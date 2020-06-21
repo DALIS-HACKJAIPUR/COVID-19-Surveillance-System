@@ -34,7 +34,7 @@ Rest all files are basic building blocks of project.
 * Face detection dependencies will need <b>deploy.prototxt</b> and <b>res10_300x300_ssd_iter_140000.caffemodel</b> files.
 
 ### Demo
-* **Video Link can be found on :-**
+* **Video Link can be found on :-** https://youtu.be/lRIyLcnr4AE
 
 ## WorkFlow
 * We have designed a Deep Learning Neural Network which will feed on real time video captured through cctv cameras installed at traffic signals placed in different part of the city. The algorithm was trained on custom made dataset and images from online
