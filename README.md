@@ -35,6 +35,8 @@ Rest all files are basic building blocks of project.
 
 ### Demo
 * **Video Link can be found on :-** https://youtu.be/lRIyLcnr4AE
+* **Pictures**
+<img src="https://github.com/DALIS-HACKJAIPUR/COVID-19-Surveillance-System/blob/master/Img1.jpeg" width="600">
 
 ## WorkFlow
 * We have designed a Deep Learning Neural Network which will feed on real time video captured through cctv cameras installed at traffic signals placed in different part of the city. The algorithm was trained on custom made dataset and images from online
