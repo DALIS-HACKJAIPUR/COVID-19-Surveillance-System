@@ -24,7 +24,12 @@ Now, comes the <b>question on the availability of CCTV cameras</b>. Highly popul
 * **Pickle**
 * **Twilio**
 * **Python**
-* <b>All the above dependencies need to be installed in order to test the project.</b>
+
+## To get it working
+All the packages mentioned above need to be installed.
+The twilio <b> auth_sid </b> and <b> auth_token </b> need to be pasted for personal accounts.
+* **The complete working project is in Final_Complete_Code.ipynb and final Neural Network is in HACK_JAIPUR_MODEL_TRAINING.ipynb.**
+Rest all files are basic building blocks of project.
 
 ### Demo
 * **Video Link can be found on :-**
@@ -34,6 +39,7 @@ Now, comes the <b>question on the availability of CCTV cameras</b>. Highly popul
 * The first step after obtaining images was to pre-process the image into a one-D array containing RGB values. The values obtained were pre processed and then sent for further computation.
 * The model uses CNN as a deep learning neural network to obtain good accuracy in predicting if a person wearing a Mask. In this step the image is convoluted, pooled and fed into layers of neural network using 'Selu' activation function. Then Flattened, and then sent to fully connected layer and Output layer.
 * The model then predicts probability of a person wearing a mask for each frame of video and if the person is found without a mask, his vehicle will be searched for QR code and then a Warning / Fine will be sent to him digitally.
+* Multiple faces are not supported in one frame.
 
 ## FLOW Diagram
 ![](Saurav_Hack_3.JPG)
