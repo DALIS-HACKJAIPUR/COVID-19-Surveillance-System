@@ -34,7 +34,7 @@ Rest all files are basic building blocks of project.
 * Face detection dependencies will need <b>deploy.prototxt</b> and <b>res10_300x300_ssd_iter_140000.caffemodel</b> files.
 
 ### Demo
-* **Video Link can be found on :-** https://youtu.be/lRIyLcnr4AE
+* **Video Link can be found on :-** https://youtu.be/rNigmWMn_jQ
 * **Pictures**
 <img src="https://github.com/DALIS-HACKJAIPUR/COVID-19-Surveillance-System/blob/master/Img1.jpeg" width="600">
 
